@@ -75,8 +75,10 @@ Optimal Threshold: 110
 ```
 
 - **Visualization Output** (example):
-The script generates a visualization that includes the histogram and the calculated values for each threshold.
-
+![img.png](images/img.png)
+![img_1.png](images/img_1.png)
+![img_2.png](images/img_2.png)
+![img_3.png](images/img_3.png)
 ## 🙏 Acknowledgements
 
 - [numpy](https://numpy.org/)
